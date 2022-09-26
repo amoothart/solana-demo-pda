@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-demo_pda = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+demo_pda = "9yQ5rLuamV6voCNZcx7NGUBAT3EXxJvpeGVXZ1MbM9vQ"
 
 [registry]
 url = "https://api.apr.dev"
